@@ -4,8 +4,8 @@
 
 ### 👀 Who am I?
 
-A brazilian Data Scientist in learning mode and originally graduated as a mechanical engineer.
-I’m currently studying Data Science at Data Science Academy from Brazil and also volunteer as data assessor at Brasil Cursinhos.
+A brazilian Data Scientist in learning mode, originally graduated as a mechanical engineer.
+I’m currently studying Data Science at Data Science Academy from Brazil, and also volunteer as data assessor at Brasil Cursinhos.
 
 ### 💻 Skills and Tools
 
