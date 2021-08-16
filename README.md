@@ -1,8 +1,22 @@
-# 👋 **Hi, I’m Ederson**
-####
+# 👋 **Hi, I’m Ederson!**
+###
 ![GitHub_Logo](data_has_better.jpg)
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 👀 Who am I?
+
+A brazilian Data Scientist in learning mode and originally graduated as a mechanical engineer.
+I’m currently studying Data Science at Data Science Academy from Brazil and also volunteer as data assessor at Brasil Cursinhos.
+
+### 💻 Skills and Tools
+
+- Python
+- Data Cleaning
+- Exploratory Data Analysis 
+- Data Preprocessing
+- Supervisioned Machine Learning
+- Microsoft Power BI and Data Visualization
+
+### 📫 Contact
+
+- moraes.ederson@yahoo.com.br
+- [LinkedIn](https://www.linkedin.com/in/ederson-moraes/)
