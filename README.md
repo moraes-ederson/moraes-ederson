@@ -1,5 +1,5 @@
-# 👋 **Hi, I’m Ederson!**
-###
+## 👋 **Hi, I’m Ederson!**
+####
 ![GitHub_Logo](data_has_better.jpg)
 
 ### 👀 Who am I?
@@ -16,7 +16,13 @@ I’m currently studying Data Science at Data Science Academy from Brazil, and a
 - Supervisioned Machine Learning
 - Microsoft Power BI and Data Visualization
 
-### 📫 Contact
+<div> 
+  <a href="https://www.linkedin.com/in/ederson-moraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-  badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-- moraes.ederson@yahoo.com.br
-- [LinkedIn](https://www.linkedin.com/in/ederson-moraes/)
+####
+ <div>
+  <a href="https://github.com/moraes-ederson">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=moraes-ederson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraes-ederson&layout=compact&langs_count=7&theme=dracula"/>
+ </div>
